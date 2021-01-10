@@ -1,4 +1,8 @@
-.input_wrapper {
+.input_container {
   margin-top: 30px;
   margin-bottom: 10px;
+}
+
+.input_wrapper {
+  margin: 10px;
 }
